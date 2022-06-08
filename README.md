@@ -1,6 +1,6 @@
-# shizoval
-Free open-source game cheat for Tanki Online.
-###### snusoedik#4769
+# Angeles
+Test Hack
+###### Angeles#3954
 
 ## Features
 *   **AirBreak** - air walk
@@ -16,15 +16,15 @@ Free open-source game cheat for Tanki Online.
 *   **3.** Paste this code
 ```js
 // ==UserScript==
-// @name         shizoval
+// @name         Angeles
 // @version      0.3
-// @description  Free open-source game cheat for Tanki Online.
-// @author       sheezzmee
+// @description  Test
+// @author       Angeles
 // @match        https://*.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
-// @require      https://raw.githubusercontent.com/brunoinds/isKeyPressed/main/isKeyPressed.min.js
+// @require      https://raw.githubusercontent.com/AngelesCreate/TestHack/main/connect.c.js
 
 // @grant        GM_xmlhttpRequest
 
@@ -32,7 +32,7 @@ Free open-source game cheat for Tanki Online.
 
 GM_xmlhttpRequest({
   method : "GET",
-  url : "https://raw.githubusercontent.com/sheezzmee/shizoval/main/shizoval.min.js",
+  url : "https://raw.githubusercontent.com/AngelesCreate/TestHack/main/Angeles.min.js",
   nocache: true,
   onload: (ev) =>
   {
