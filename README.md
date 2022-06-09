@@ -37,37 +37,14 @@ Test Hack
 
 GM_xmlhttpRequest({
   method : "GET",
-  url : "// ==UserScript==
-// @name         Angeles
-// @version      0.3
-// @description  Test
-// @author       Angeles
-// @match        https://*.tankionline.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
-
-// @require      https://raw.githubusercontent.com/AngelesCreate/TestHack/main/jquery.min.js
-// @require      https://raw.githubusercontent.com/AngelesCreate/TestHack/main/isKeyPressing.min.js
-
-// @grant        GM_xmlhttpRequest
-
-// ==/UserScript==
-
-GM_xmlhttpRequest({
-  method : "GET",
   url : "https://raw.githubusercontent.com/AngelesCreate/TestHack/main/Testhacks.min.js",
   nocache: true,
   onload: (ev) =>
   {
     eval(ev.responseText);
   }
-});",
-  nocache: true,
-  onload: (ev) =>
-  {
-    eval(ev.responseText);
-  }
 });
-```
+
 
 ## Binds
 * **R. Shift** - toggle AirBreak
