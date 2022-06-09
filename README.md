@@ -16,7 +16,7 @@ Test Hack
 
 ## Getting started
 
-*   **1.** Install **Tampermonkey** - [here](https://www.tampermonkey.net/)
+*   **1.** Install **Tampermonkey** - [TM](https://www.tampermonkey.net/)
 *   **2.** Create a new script
 *   **3.** Paste this code
 ```js
