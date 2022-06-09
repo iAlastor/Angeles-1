@@ -11,6 +11,7 @@ Test Hack
 *   **Autoheal** - recovery of health with each shot automatically
 *   **Chapels of the mape** - you will not be able to fly off the map
 *   **Redesign of the menu to suit your taste and color.** - say me your settings (Angeles#3954)
+*   **Clicker** - includes striped mines
 
 
 ## Getting started
@@ -51,7 +52,7 @@ GM_xmlhttpRequest({
 * `RIGHT` - increase AirBreak speed
 * `Q` - up position for AirBreak
 * `E`- down position for AirBreak
-* `J` - toggle Anti-Aim
-* `R` - explode the missiles (if the missiles are stuck and nothing happens)
-* `INSERT` - toggle visible cheat menu
-* `5` - toggle auto mining
+* **J** - toggle Anti-Aim
+* **R** - explode the missiles (if the missiles are stuck and nothing happens)
+* **INSERT** - toggle visible cheat menu
+* **5** - toggle auto mining
