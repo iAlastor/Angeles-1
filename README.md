@@ -1,6 +1,6 @@
 # Angeles
 Hacks for SpeedHack Team
-###### **My discord** - [click](https://discord.com)
+###### **My discord channel** - [click](https://discord.gg/EhP967nAuU)
 
 ## Features
 *   **AirBreak** - air walk
