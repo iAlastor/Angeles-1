@@ -1,8 +1,8 @@
 let cheatMenuCode = `
-<div class="shizoval" id="shizoval_window">
+<div class="Angeles" id="Angeles_window">
 
 	<style>
-        .shizoval {
+        .Angeles {
             left: 1%;
             top: 15%;
             position: fixed;
@@ -10,7 +10,7 @@ let cheatMenuCode = `
             display: flex;
         }
 
-        .shizoval__content {
+        .Angeles__content {
             padding: 15px;
             background: #140033;
             box-shadow: 0 5px 15px black;
@@ -22,8 +22,8 @@ let cheatMenuCode = `
         }
 	</style>
 
-	<div class="shizoval__content">
-		<center>shizoval</center><hr>
+	<div class="Angeles__content">
+		<center>Angeles</center><hr>
 
 		<div id="gameStates" style="display: none;">
 			<p>AirBreak: <font id="airBreakStateColor" color="red"><label id="airBreakState">FALSE</label></font></p>
@@ -33,9 +33,9 @@ let cheatMenuCode = `
 		</div>
 
 		<div id="infoWindow">
-			<p>Free cheat for tanki online by sheezzmee</p>
-			<p>Use only on the test server</p>
-			<p><a href="https://github.com/sheezzmee/shizoval" target="_blank" rel="noopener noreferrer">Cheat source</a></p>
+			<p>Hack by Angeles</p>
+			<p>Use only</p>
+			<p><a href="https://www.youtube.com/channel/UCmoLkyugdn0LHBJCL8XaANg" target="_blank" rel="noopener noreferrer">Cheat source</a></p>
 		</div>
 
 	</div>
