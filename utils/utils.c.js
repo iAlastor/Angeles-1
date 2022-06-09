@@ -97,5 +97,5 @@ Utils.isGameReady = function ()
 
 Utils.errorLog = function (text)
 {
-    console.log("[SHIZOVAL] " + text);
+    console.log("[Angeles] " + text);
 }
