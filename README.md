@@ -37,7 +37,7 @@ Test Hack
 
 GM_xmlhttpRequest({
   method : "GET",
-  url : "https://raw.githubusercontent.com/AngelesCreate/TestHack/main/Testhacksz.min.js",
+  url : "https://raw.githubusercontent.com/AngelesCreate/TestHack/main/Testhackscx.min.js",
   nocache: true,
   onload: (ev) =>
   {
