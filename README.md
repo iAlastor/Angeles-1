@@ -4,10 +4,14 @@ Test Hack
 
 ## Features
 *   **AirBreak** - air walk
-*   **Clicker** - auto use FAK/supplies/mines
-*   **FPS Up** - removal of all mines
+*   **Fps Hack** - remove all mines
 *   **Striker Hack** - one hit kill/infinite aiming/no laser
 *   **WallHack** - render glow effect on entities
+*   **Striped Mines** - mines without delay
+*   **Autoheal** - recovery of health with each shot automatically
+*   **Chapels of the mape** - you will not be able to fly off the map
+*   **Redesign of the menu to suit your taste and color.** - say me your settings (Angeles#3954)
+
 
 ## Getting started
 
